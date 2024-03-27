@@ -19,11 +19,11 @@ redirect_from:
 
 Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised by Prof Wei Feng. During his graduate student period, he worked closely with Prof Shenglan Liu. His research interest includes Video Understanding, Sign Lnaguage Understanding and Multimodal Learning. 
 
-
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+-->
 
 # 📝 Publications 
 
@@ -33,7 +33,8 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 [Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition](https://arxiv.org/pdf/2403.12519.pdf)
 
 **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
-[![](https://img.shields.io/github/stars/hulianyuyy/DSTA-SLR?style=social&label=VAC Stars)](https://github.com/hulianyuyy/DSTA-SLR) 
+<!-- [![](https://img.shields.io/github/stars/ycmin95/VAC_CSLR?style=social&label=VAC Stars)](https://github.com/ycmin95/VAC_CSLR) [![](https://img.shields.io/github/forks/ycmin95/VAC_CSLR?style=social&label=Forks)](https://github.com/ycmin95/VAC_CSLR) \| <strong><span class='show_paper_citations' data='qc2906sAAAAJ:zA6iFVUQeVQC'></span></strong>  -->
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/DSTA-SLR)
 - A lightweight spatial-temporal graph model for skeleton-aware sign language recognition
 </div>
 </div>
