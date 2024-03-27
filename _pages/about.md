@@ -19,11 +19,11 @@ redirect_from:
 
 Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised by Prof Wei Feng. During his graduate student period, he worked closely with Prof Shenglan Liu. His research interest includes Video Understanding, Sign Lnaguage Understanding and Multimodal Learning. 
 
-{%
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-%}
+
 
 # 📝 Publications 
 
