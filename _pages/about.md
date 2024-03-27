@@ -32,6 +32,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 [Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition](https://arxiv.org/pdf/2403.12519.pdf)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/DSTA-SLR)
+
 **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
 <!-- [![](https://img.shields.io/github/stars/ycmin95/VAC_CSLR?style=social&label=VAC Stars)](https://github.com/ycmin95/VAC_CSLR) [![](https://img.shields.io/github/forks/ycmin95/VAC_CSLR?style=social&label=Forks)](https://github.com/ycmin95/VAC_CSLR) \| <strong><span class='show_paper_citations' data='qc2906sAAAAJ:zA6iFVUQeVQC'></span></strong>  -->
 <!-- - A lightweight spatial-temporal graph model for skeleton-aware sign language recognition -->
@@ -43,6 +44,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 [COMMA: Co-Articulated Multi-Modal Learning](https://arxiv.org/pdf/2401.00268.pdf)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/COMMA)
+
 **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng
 
 </div>
@@ -62,6 +64,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 [AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition](https://arxiv.org/pdf/2308.08327.pdf)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/AdaBrowse)
+
 **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng
 
 </div>
@@ -72,6 +75,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 [Skeleton-Based Action Recognition with Local Dynamic Spatial-Temporal Aggregation](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011855)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/STGAT)
+
 **Lianyu Hu**, Shenglan Liu, Wei Feng
 - Previous name: Spatial Temporal Graph Attention Network for Skeleton-Based Action Recognition
 
@@ -83,6 +87,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 [Continuous Sign Language Recognition with Correlation Network](https://arxiv.org/pdf/2303.03202.pdf)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/CorrNet)
+
 **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
 
 </div>
@@ -93,6 +98,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 [Self-Emphasizing Network for Continuous Sign Language Recognition](https://arxiv.org/pdf/2211.17081.pdf)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/SEN_CSLR)
+
 **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
 
 </div>
@@ -103,6 +109,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 [Temporal Lift Pooling for Continuous Sign Language Recognition](https://arxiv.org/abs/2207.08734)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/Temporal-Lift-Pooling)
+
 **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
 
 </div>
