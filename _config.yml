@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "The homepage of Lianyu Hu"
-# description              : "The homepage of Lianyu Hu "
+title                    : "Lianyu Hu"
+description              : "Welcome to the homepage of Lianyu Hu "
 repository               : "hulianyuyy/hulianyuyy.github.io"
 google_scholar_stats_use_cdn : true
 
