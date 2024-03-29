@@ -26,7 +26,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 -->
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCOLING 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,15 +49,6 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 </div>
 </div>
-
-
-[COMMA: Co-Articulated Multi-Modal Learning](https://arxiv.org/pdf/2401.00268.pdf)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/COMMA)
-
-AAAI 2024
-
-**Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -132,6 +123,71 @@ AAAI 2024
 **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
 </div>
 </div>
+-->
+
+
+[Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition](https://arxiv.org/pdf/2403.12519.pdf)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/DSTA-SLR)
+
+CCOLING 2024
+
+**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
+<!-- [![](https://img.shields.io/github/stars/ycmin95/VAC_CSLR?style=social&label=VAC Stars)](https://github.com/ycmin95/VAC_CSLR) [![](https://img.shields.io/github/forks/ycmin95/VAC_CSLR?style=social&label=Forks)](https://github.com/ycmin95/VAC_CSLR) \| <strong><span class='show_paper_citations' data='qc2906sAAAAJ:zA6iFVUQeVQC'></span></strong>  -->
+
+[COMMA: Co-Articulated Multi-Modal Learning](https://arxiv.org/pdf/2401.00268.pdf)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/COMMA)
+
+AAAI 2024
+
+**Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng
+
+[Scalable Frame Resolution for Efficient Continuous Sign Language Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323006015)
+
+Pattern Recognition
+
+**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
+
+
+[AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition](https://arxiv.org/pdf/2308.08327.pdf)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/AdaBrowse)
+
+**Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng
+
+[Skeleton-Based Action Recognition with Local Dynamic Spatial-Temporal Aggregation](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011855)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/STGAT)
+
+Expert Systems with Applications
+
+**Lianyu Hu**, Shenglan Liu, Wei Feng
+- Previous name: Spatial Temporal Graph Attention Network for Skeleton-Based Action Recognition
+
+[Continuous Sign Language Recognition with Correlation Network](https://arxiv.org/pdf/2303.03202.pdf)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/CorrNet)
+
+CVPR 2023
+
+**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
+
+[Self-Emphasizing Network for Continuous Sign Language Recognition](https://arxiv.org/pdf/2211.17081.pdf)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/SEN_CSLR)
+
+AAAI 2023 (Oral)
+
+**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
+
+[Temporal Lift Pooling for Continuous Sign Language Recognition](https://arxiv.org/abs/2207.08734)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/hulianyuyy/Temporal-Lift-Pooling)
+
+ECCV 2022
+
+**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
+
+
+[HFNet: A Novel Model for Human Focused Sports Action Recognition](https://dl.acm.org/doi/pdf/10.1145/3422844.3423052)
+
+ACMMM 2020 Workshop
+
+**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
