@@ -135,7 +135,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 - [Skeleton-Based Action Recognition with Local Dynamic Spatial-Temporal Aggregation](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011855). **Lianyu Hu**, Shenglan Liu, Wei Feng. **<i>Expert Systems with Applications</i>**. [[code](https://github.com/hulianyuyy/STGAT)]. (Previous name: Spatial Temporal Graph Attention Network for Skeleton-Based Action Recognition)
 
-- [Continuous Sign Language Recognition with Correlation Network](https://arxiv.org/pdf/2303.03202.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>CVPR 2023</i>**. [[code(https://github.com/hulianyuyy/CorrNet)].
+- [Continuous Sign Language Recognition with Correlation Network](https://arxiv.org/pdf/2303.03202.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>CVPR 2023</i>**. [[code](https://github.com/hulianyuyy/CorrNet)].
 
 - [Self-Emphasizing Network for Continuous Sign Language Recognition](https://arxiv.org/pdf/2211.17081.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>AAAI 2023 (Oral)</i>**. [[code](https://github.com/hulianyuyy/SEN_CSLR)].
 
@@ -147,7 +147,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 - 2023.10, National Scholarship
 
 # 📖 Educations
-- *2021-now*, PhD candidate of Computer Science and Technology, Tianjin Univerisity
+- *2021-now*, PhD candidate in Computer Science and Technology, Tianjin Univerisity
 - *2018-2021*, MEng in Computer Science and Technology, Dalian University of Technology
 - *2014-2018*, BSc in Electronics and Information Engineering, Dalian University of Technology
 
