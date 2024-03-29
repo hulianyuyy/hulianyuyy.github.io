@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "The homepage of Lianyu Hu"
-description              : "The homepage of Lianyu Hu "
+# description              : "The homepage of Lianyu Hu "
 repository               : "hulianyuyy/hulianyuyy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lianyu Hu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/icon.png"
   bio              : "3rd-year PhD candidate in Tianjin Univeisity"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UNn2NIwAAAAJ"
-  email            : "hly2021@tju.educn"
+  email            : "hly2021@tju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
