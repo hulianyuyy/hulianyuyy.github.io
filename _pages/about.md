@@ -125,23 +125,23 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 -->
 
-- [Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition](https://arxiv.org/pdf/2403.12519.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **COLING 2024**. [code](https://github.com/hulianyuyy/DSTA-SLR). 
-- 
-- [COMMA: Co-Articulated Multi-Modal Learning](https://arxiv.org/pdf/2401.00268.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng. **AAAI 2024**. [code](https://github.com/hulianyuyy/COMMA)
+- [Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition](https://arxiv.org/pdf/2403.12519.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>COLING 2024</i>**. [code](https://github.com/hulianyuyy/DSTA-SLR). 
 
-- [Scalable Frame Resolution for Efficient Continuous Sign Language Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323006015). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **Pattern Recognition**.
+- [COMMA: Co-Articulated Multi-Modal Learning](https://arxiv.org/pdf/2401.00268.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng. **<i>AAAI 2024</i>**. [code](https://github.com/hulianyuyy/COMMA)
 
-- [AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition](https://arxiv.org/pdf/2308.08327.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng. ACMMM 2023 (Oral) [code](https://github.com/hulianyuyy/AdaBrowse)
+- [Scalable Frame Resolution for Efficient Continuous Sign Language Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323006015). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>Pattern Recognition</i>**.
 
-- [Skeleton-Based Action Recognition with Local Dynamic Spatial-Temporal Aggregation](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011855). **Lianyu Hu**, Shenglan Liu, Wei Feng. **Expert Systems with Applications**. [code](https://github.com/hulianyuyy/STGAT). (Previous name: Spatial Temporal Graph Attention Network for Skeleton-Based Action Recognition)
+- [AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition](https://arxiv.org/pdf/2308.08327.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng. **<i>ACMMM 2023 (Oral)</i>** [code](https://github.com/hulianyuyy/AdaBrowse)
 
-- [Continuous Sign Language Recognition with Correlation Network](https://arxiv.org/pdf/2303.03202.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **CVPR 2023**. [code(https://github.com/hulianyuyy/CorrNet)
+- [Skeleton-Based Action Recognition with Local Dynamic Spatial-Temporal Aggregation](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011855). **Lianyu Hu**, Shenglan Liu, Wei Feng. **<i>Expert Systems with Applications</i>**. [code](https://github.com/hulianyuyy/STGAT). (Previous name: Spatial Temporal Graph Attention Network for Skeleton-Based Action Recognition)
 
-- [Self-Emphasizing Network for Continuous Sign Language Recognition](https://arxiv.org/pdf/2211.17081.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **AAAI 2023 (Oral)**. [code](https://github.com/hulianyuyy/SEN_CSLR)
+- [Continuous Sign Language Recognition with Correlation Network](https://arxiv.org/pdf/2303.03202.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>CVPR 2023</i>**. [code(https://github.com/hulianyuyy/CorrNet)
 
-- [Temporal Lift Pooling for Continuous Sign Language Recognition](https://arxiv.org/abs/2207.08734).**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **ECCV 2022**. [code](https://github.com/hulianyuyy/Temporal-Lift-Pooling). 
+- [Self-Emphasizing Network for Continuous Sign Language Recognition](https://arxiv.org/pdf/2211.17081.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>AAAI 2023 (Oral)</i>**. [code](https://github.com/hulianyuyy/SEN_CSLR)
 
-- [HFNet: A Novel Model for Human Focused Sports Action Recognition](https://dl.acm.org/doi/pdf/10.1145/3422844.3423052).**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **ACMMM 2020 Workshop**
+- [Temporal Lift Pooling for Continuous Sign Language Recognition](https://arxiv.org/abs/2207.08734).**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>ECCV 2022</i>**. [code](https://github.com/hulianyuyy/Temporal-Lift-Pooling). 
+
+- [HFNet: A Novel Model for Human Focused Sports Action Recognition](https://dl.acm.org/doi/pdf/10.1145/3422844.3423052).**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>ACMMM 2020 Workshop</i>**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
