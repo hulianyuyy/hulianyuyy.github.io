@@ -20,7 +20,7 @@ redirect_from:
 Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised by Prof [Wei Feng](https://scholar.google.com/citations?user=7ory1i8AAAAJ&hl=zh-CN&oi=ao). During his graduate student period, he worked closely with Prof [Shenglan Liu](https://scholar.google.com/citations?hl=zh-CN&user=MtbsE3YAAAAJ). His research interest includes Video Understanding, Sign Lnaguage Understanding and Multimodal Learning. 
 
 # 🔥 News
-- We release [**AdaptSign**](https://github.com/hulianyuyy/AdaptSign), a continuous sign language recognition (CSLR) model powered by frozen pretrained image models with **18.5%** & **18.8%** WER on phoenix2014, **18.6%** & **19.8%** WER on phoenix2014-T, **26.7%** & **26.3%** WER on CSL-Daily.
+- We release [**AdaptSign**](https://github.com/hulianyuyy/AdaptSign), a continuous sign language recognition (CSLR) model powered by frozen pretrained image models with **18.5%** \& **18.8%** WER on phoenix2014, **18.6%** \& **19.8%** WER on phoenix2014-T, **26.7%** \& **26.3%** WER on CSL-Daily.
 
 - We release [**DSTA-SLR**](https://arxiv.org/pdf/2403.12519.pdf), which performs sign language recognition (SLR) with **pure skeleton inputs** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
 
@@ -49,7 +49,12 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 # 🎖 Honors and Awards
 - 2023.10, National Scholarship
 
-- <!--
+# 📖 Educations
+- *2021-now*, PhD candidate in Computer Science and Technology, Tianjin Univerisity
+- *2018-2021*, MEng in Computer Science and Technology, Dalian University of Technology
+- *2014-2018*, BSc in Electronics and Information Engineering, Dalian University of Technology
+
+<!--
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCOLING 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -147,9 +152,3 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 </div>
 
 -->
-
-# 📖 Educations
-- *2021-now*, PhD candidate in Computer Science and Technology, Tianjin Univerisity
-- *2018-2021*, MEng in Computer Science and Technology, Dalian University of Technology
-- *2014-2018*, BSc in Electronics and Information Engineering, Dalian University of Technology
-
