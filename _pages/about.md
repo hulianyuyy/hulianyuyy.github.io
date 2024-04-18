@@ -21,7 +21,7 @@ Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised b
 
 # 🔥 News
 - We release [**CorrNet+**](https://arxiv.org/abs/2404.11111), an unified model with superior performance on both **continuous sign language recognition** and **sign language translation** tasks by using **only RGB inputs**.
-- 
+  
 - We release [**AdaptSign**](https://arxiv.org/abs/2404.08226), a continuous sign language recognition (CSLR) model powered by frozen pretrained image models with **18.5%** & **18.8%** WER on phoenix2014, **18.6%** & **19.8%** WER on phoenix2014-T, **26.7%** & **26.3%** WER on CSL-Daily.
 
 - We release [**DSTA-SLR**](https://arxiv.org/abs/2403.12519), which performs sign language recognition (SLR) with **pure skeleton inputs** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
