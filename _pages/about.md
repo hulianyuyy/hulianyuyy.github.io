@@ -20,9 +20,11 @@ redirect_from:
 Lianyu Hu is a 3rd-year PhD candidate in Tianjin University, China, supervised by Prof [Wei Feng](https://scholar.google.com/citations?user=7ory1i8AAAAJ&hl=zh-CN&oi=ao). During his graduate student period, he worked closely with Prof [Shenglan Liu](https://scholar.google.com/citations?hl=zh-CN&user=MtbsE3YAAAAJ). His research interest includes Video Understanding, Sign Lnaguage Understanding and Multimodal Learning. 
 
 # 🔥 News
-- We release [**AdaptSign**](https://github.com/hulianyuyy/AdaptSign), a continuous sign language recognition (CSLR) model powered by frozen pretrained image models with **18.5%** \& **18.8%** WER on phoenix2014, **18.6%** \& **19.8%** WER on phoenix2014-T, **26.7%** \& **26.3%** WER on CSL-Daily.
+- We release [**CorrNet+**](https://arxiv.org/abs/2404.11111), an unified model with superior performance on both **continuous sign language recognition** and **sign language translation** tasks by using **only RGB inputs**.
+- 
+- We release [**AdaptSign**](https://arxiv.org/abs/2404.08226), a continuous sign language recognition (CSLR) model powered by frozen pretrained image models with **18.5%** & **18.8%** WER on phoenix2014, **18.6%** & **19.8%** WER on phoenix2014-T, **26.7%** & **26.3%** WER on CSL-Daily.
 
-- We release [**DSTA-SLR**](https://arxiv.org/pdf/2403.12519.pdf), which performs sign language recognition (SLR) with **pure skeleton inputs** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
+- We release [**DSTA-SLR**](https://arxiv.org/abs/2403.12519), which performs sign language recognition (SLR) with **pure skeleton inputs** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
 
 # 📝 Publications 
 
