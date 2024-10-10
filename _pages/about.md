@@ -34,7 +34,7 @@ Lianyu Hu is a 4th-year PhD candidate in Tianjin University, China, supervised b
 - [Improving Continuous Sign Language Recognition with Adapted Image Models](https://arxiv.org/pdf/2404.08226.pdf), **Lianyu Hu**, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng. 2024.04. [[code](https://github.com/hulianyuyy/AdaptSign)].
 
 ## 🖊️ Selected Publications
-- Deep Correlated Prompting for Visual Recognition with Missing Modalities. **Lianyu Hu**, Tongkai Shi, Wei Feng, Fanhua Shang, Liang Wan. **<i>NeurIPS 2024</i>**. [[code](https://github.com/hulianyuyy/Deep_Correlated_Prompting)].
+- [Deep Correlated Prompting for Visual Recognition with Missing Modalities](https://arxiv.org/abs/2410.06558). **Lianyu Hu**, Tongkai Shi, Wei Feng, Fanhua Shang, Liang Wan. **<i>NeurIPS 2024</i>**. [[code](https://github.com/hulianyuyy/Deep_Correlated_Prompting)].
   
 - [Pose-Guided Fine-Grained Sign Language Video Generation](https://arxiv.org/abs/2409.16709). Tongkai Shi, **Lianyu Hu**, Fanhua Shang, Jichao Feng, Peidong Liu, Wei Feng. **<i>ECCV 2024</i>**. [[code](https://github.com/shitongkai/PGMM)].
   
