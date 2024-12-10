@@ -63,6 +63,8 @@ Lianyu Hu is a 4th-year PhD candidate in Tianjin University, China, supervised b
 - [HFNet: A Novel Model for Human Focused Sports Action Recognition](https://dl.acm.org/doi/pdf/10.1145/3422844.3423052).**Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>ACMMM 2020 Workshop</i>**.
 
 # 🎖 Honors and Awards
+- 2024.12, 优秀学生标兵（学校10个每年）
+- 2024.10, National Scholarship
 - 2023.10, National Scholarship
 
 # 📖 Educations
