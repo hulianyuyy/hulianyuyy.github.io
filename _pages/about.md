@@ -20,15 +20,19 @@ redirect_from:
 Lianyu Hu is a 4th-year PhD candidate in Tianjin University, China, supervised by Prof [Wei Feng](https://scholar.google.com/citations?user=7ory1i8AAAAJ&hl=zh-CN&oi=ao). During his graduate student period, he worked closely with Prof [Shenglan Liu](https://scholar.google.com/citations?hl=zh-CN&user=MtbsE3YAAAAJ). His research interest includes Video Understanding, Sign Lnaguage Understanding and Multimodal Learning. 
 
 # 🔥 News
+- We release [**iLLaVA**](https://arxiv.org/pdf/2412.06263), an efficient method for large vision language models by merging visual tokens. It could achieve about **2×** throughput and **1.7× - 2×** memory reduction with comparable performance through merging redundant visual tokens in some certain layers.
+
+- We release [**Deep Correletaed Prompting**](https://arxiv.org/pdf/2404.11111.pdf), which tackles the missing-modality scenarios by proposing three different types of prompting approaches, largely improving the robustness of large vision-language models.
+
 - We release [**CorrNet+**](https://arxiv.org/abs/2404.11111), an unified model with superior performance on both **continuous sign language recognition** and **sign language translation** tasks by using **only RGB inputs**.
-  
-- We release [**AdaptSign**](https://arxiv.org/abs/2404.08226), a continuous sign language recognition (CSLR) model powered by frozen pretrained image models with **18.5%** & **18.8%** WER on phoenix2014, **18.6%** & **19.8%** WER on phoenix2014-T, **26.7%** & **26.3%** WER on CSL-Daily.
 
 - We release [**DSTA-SLR**](https://arxiv.org/abs/2403.12519), which performs sign language recognition (SLR) with **pure skeleton inputs** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
 
 # 📝 Publications 
 
 ## 📖 PrePrint
+- [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2024.12. [[code](https://github.com/hulianyuyy/iLLaVA)].
+
 - [CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation](https://arxiv.org/pdf/2404.11111.pdf), **Lianyu Hu**, Wei Feng, Liqing Gao, Zekang Liu, Liang Wan. 2024.04. [[code](https://github.com/hulianyuyy/CorrNet_Plus)].
   
 - [Improving Continuous Sign Language Recognition with Adapted Image Models](https://arxiv.org/pdf/2404.08226.pdf), **Lianyu Hu**, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng. 2024.04. [[code](https://github.com/hulianyuyy/AdaptSign)].
