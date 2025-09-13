@@ -21,7 +21,7 @@ Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof
 
 # 🔥 News
 - We release [**LightVLM**](https://arxiv.org/pdf/2509.00419), an highly efficient method for large vision language models with a two-stage design. It improves model efficiency by first conducting visual token merging in the encoding stage and then adopt KV Cache compression in the decoding stage. It could achieve about **2×** throughput across diffferent benchmarks and **3.21×** throughput boost when outputting longer sequences.
-- 
+
 - We release [**iLLaVA**](https://arxiv.org/pdf/2412.06263), an efficient method for large vision language models by merging visual tokens. It could achieve about **2×** throughput and **1.7× - 2×** memory reduction with comparable performance through merging redundant visual tokens in some certain layers.
 
 - We release [**CorrNet+**](https://arxiv.org/abs/2404.11111), an unified model with superior performance on both **continuous sign language recognition** and **sign language translation** tasks by using **only RGB inputs**.
