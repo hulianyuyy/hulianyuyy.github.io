@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lianyu Hu is a 4th-year PhD candidate in Tianjin University, China, supervised by Prof [Wei Feng](https://scholar.google.com/citations?user=7ory1i8AAAAJ&hl=zh-CN&oi=ao). During his graduate student period, he worked closely with Prof [Shenglan Liu](https://scholar.google.com/citations?hl=zh-CN&user=MtbsE3YAAAAJ). His research interest includes Video Understanding, Sign Lnaguage Understanding and Multimodal Learning. 
+Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof [Wei Feng](https://scholar.google.com/citations?user=7ory1i8AAAAJ&hl=zh-CN&oi=ao). During his graduate student period, he worked closely with Prof [Shenglan Liu](https://scholar.google.com/citations?hl=zh-CN&user=MtbsE3YAAAAJ). His research interest includes Video Understanding, Sign Lnaguage Understanding and Multimodal Learning. 
 
 # 🔥 News
+- We release [**LightVLM**](https://arxiv.org/pdf/2509.00419), an highly efficient method for large vision language models with a two-stage design. It improves model efficiency by first conducting visual token merging in the encoding stage and then adopt KV Cache compression in the decoding stage. It could achieve about **2×** throughput across diffferent benchmarks and **3.21×** throughput boost when outputting longer sequences.
+- 
 - We release [**iLLaVA**](https://arxiv.org/pdf/2412.06263), an efficient method for large vision language models by merging visual tokens. It could achieve about **2×** throughput and **1.7× - 2×** memory reduction with comparable performance through merging redundant visual tokens in some certain layers.
-
-- We release [**Deep Correletaed Prompting**](https://arxiv.org/pdf/2410.06558.pdf), which tackles the missing-modality scenarios by proposing three different types of prompting approaches, largely improving the robustness of large vision-language models.
 
 - We release [**CorrNet+**](https://arxiv.org/abs/2404.11111), an unified model with superior performance on both **continuous sign language recognition** and **sign language translation** tasks by using **only RGB inputs**.
 
@@ -31,6 +31,8 @@ Lianyu Hu is a 4th-year PhD candidate in Tianjin University, China, supervised b
 # 📝 Publications 
 
 ## 📖 PrePrint
+- [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2025.09. 
+
 - [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2024.12. [[code](https://github.com/hulianyuyy/iLLaVA)].
 
 - [CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation](https://arxiv.org/pdf/2404.11111.pdf), **Lianyu Hu**, Wei Feng, Liqing Gao, Zekang Liu, Liang Wan. 2024.04. [[code](https://github.com/hulianyuyy/CorrNet_Plus)].
