@@ -24,10 +24,14 @@ socket.setdefaulttimeout(30)
 # 2. Optional proxy setup (avoids Google blocking)
 # -------------------------
 try:
+    # Manually get a working free proxy
+    proxy = FreeProxy().get()  # or .get_proxy_list(repeat=3)[0]
+    
     pg = ProxyGenerator()
-    pg.FreeProxies()  # or pg.ScraperAPI("<your_api_key>")
+    pg.SingleProxy(http=proxy, https=proxy)
     scholarly.use_proxy(pg)
-    print("✅ Proxy setup successful (FreeProxies).")
+    
+    print(f"✅ Proxy setup successful: {proxy}")
 except Exception as e:
     print(f"⚠️ Proxy setup failed or skipped: {e}")
 
