@@ -5,7 +5,7 @@ import signal
 import socket
 from datetime import datetime
 from scholarly import scholarly, ProxyGenerator
-
+from fp.fp import FreeProxy 
 # -------------------------
 # 1. Setup global timeouts
 # -------------------------
