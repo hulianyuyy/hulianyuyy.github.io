@@ -39,7 +39,7 @@ Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof
   
 - [Improving Continuous Sign Language Recognition with Adapted Image Models](https://arxiv.org/pdf/2404.08226.pdf), **Lianyu Hu**, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng. 2024.04. [[code](https://github.com/hulianyuyy/AdaptSign)].
 
-## 🖊️ Selected Publications ($\dagger$ denotes Correspding Author)
+## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
 - GReg: Geometry-Aware Region Refinement for Sign Language Video Generation. Tongkai Shi, **Lianyu Hu<sup>$\dagger$</sup>**, Fanhua Shang, Liqing Gao, Wei Feng. **<i>ICCV 2025</i>**.
 
 - [Deep Correlated Prompting for Visual Recognition with Missing Modalities](https://arxiv.org/abs/2410.06558). **Lianyu Hu**, Tongkai Shi, Wei Feng, Fanhua Shang, Liang Wan. **<i>NeurIPS 2024</i>**. [[code](https://github.com/hulianyuyy/Deep_Correlated_Prompting)].
