@@ -33,13 +33,13 @@ Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof
 ## 📖 PrePrint
 - [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2025.09. 
 
-- [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2024.12. [[code](https://github.com/hulianyuyy/iLLaVA)].
-
 - [CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation](https://arxiv.org/pdf/2404.11111.pdf), **Lianyu Hu**, Wei Feng, Liqing Gao, Zekang Liu, Liang Wan. 2024.04. [[code](https://github.com/hulianyuyy/CorrNet_Plus)].
   
 - [Improving Continuous Sign Language Recognition with Adapted Image Models](https://arxiv.org/pdf/2404.08226.pdf), **Lianyu Hu**, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng. 2024.04. [[code](https://github.com/hulianyuyy/AdaptSign)].
 
 ## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
+- [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **Lianyu Hu**, Liqing Gao, Fanhua Shang, Liang Wan, Wei Feng. ICLR2026. [[code](https://github.com/hulianyuyy/iLLaVA)].
+- 
 - [GReg: Geometry-Aware Region Refinement for Sign Language Video Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Shi_GReg_Geometry-Aware_Region_Refinement_for_Sign_Language_Video_Generation_ICCV_2025_paper.pdf). Tongkai Shi, **Lianyu Hu<sup>$\dagger$</sup>**, Fanhua Shang, Liqing Gao, Wei Feng. **<i>ICCV 2025</i>**.
 
 - [Deep Correlated Prompting for Visual Recognition with Missing Modalities](https://arxiv.org/abs/2410.06558). **Lianyu Hu**, Tongkai Shi, Wei Feng, Fanhua Shang, Liang Wan. **<i>NeurIPS 2024</i>**. [[code](https://github.com/hulianyuyy/Deep_Correlated_Prompting)].
