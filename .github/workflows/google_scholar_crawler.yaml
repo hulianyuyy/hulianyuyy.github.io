@@ -15,6 +15,11 @@ jobs:
         sudo apt-get install python3-setuptools
     - name: Run
       run: |
+        cd ./google_scholar_crawler
+        pip3 install -r requirements.txt
+        python3 main.py
+        cd ./results
+        git init
         
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
