@@ -38,7 +38,7 @@ Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof
 - [Improving Continuous Sign Language Recognition with Adapted Image Models](https://arxiv.org/pdf/2404.08226.pdf), **Lianyu Hu**, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng. 2024.04. [[code](https://github.com/hulianyuyy/AdaptSign)].
 
 ## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
-- [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **Lianyu Hu**, Liqing Gao, Fanhua Shang, Liang Wan, Wei Feng. ICLR2026. [[code](https://github.com/hulianyuyy/iLLaVA)].
+- [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **Lianyu Hu**, Liqing Gao, Fanhua Shang, Liang Wan, Wei Feng. **<i>ICLR2026</i>**. [[code](https://github.com/hulianyuyy/iLLaVA)].
   
 - [GReg: Geometry-Aware Region Refinement for Sign Language Video Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Shi_GReg_Geometry-Aware_Region_Refinement_for_Sign_Language_Video_Generation_ICCV_2025_paper.pdf). Tongkai Shi, **Lianyu Hu<sup>$\dagger$</sup>**, Fanhua Shang, Liqing Gao, Wei Feng. **<i>ICCV 2025</i>**.
 
