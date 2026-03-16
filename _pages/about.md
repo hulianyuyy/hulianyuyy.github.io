@@ -29,13 +29,12 @@ Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof
 - We release [**DSTA-SLR**](https://arxiv.org/abs/2403.12519), which performs sign language recognition (SLR) with **pure skeleton inputs** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
 
 # 📝 Publications 
-
-## 📖 PrePrint
-- [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2025.09. 
-
+## 📖 Technical Report
 - [CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation](https://arxiv.org/pdf/2404.11111.pdf), **Lianyu Hu**, Wei Feng, Liqing Gao, Zekang Liu, Liang Wan. 2024.04. [[code](https://github.com/hulianyuyy/CorrNet_Plus)].
   
 - [Improving Continuous Sign Language Recognition with Adapted Image Models](https://arxiv.org/pdf/2404.08226.pdf), **Lianyu Hu**, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng. 2024.04. [[code](https://github.com/hulianyuyy/AdaptSign)].
+## 📖 PrePrint
+- [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2025.09. 
 
 ## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
 - [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **Lianyu Hu**, Liqing Gao, Fanhua Shang, Liang Wan, Wei Feng. **<i>ICLR2026</i>**. [[code](https://github.com/hulianyuyy/iLLaVA)]. (To be modified)
