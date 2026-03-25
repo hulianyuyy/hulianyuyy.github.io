@@ -42,7 +42,7 @@ Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof
 
 - **Lianyu Hu**, Tongkai Shi, Wei Feng, Fanhua Shang, Liang Wan. [Deep Correlated Prompting for Visual Recognition with Missing Modalities](https://arxiv.org/abs/2410.06558). **<i>NeurIPS 2024</i>**. [[code](https://github.com/hulianyuyy/Deep_Correlated_Prompting)].
   
-- [Pose-Guided Fine-Grained Sign Language Video Generation](https://arxiv.org/abs/2409.16709). Tongkai Shi, **Lianyu Hu**, Fanhua Shang, Jichao Feng, Peidong Liu, Wei Feng. **<i>ECCV 2024</i>**. [[code](https://github.com/shitongkai/PGMM)].
+- Tongkai Shi, **Lianyu Hu**, Fanhua Shang, Jichao Feng, Peidong Liu, Wei Feng. [Pose-Guided Fine-Grained Sign Language Video Generation](https://arxiv.org/abs/2409.16709). **<i>ECCV 2024</i>**. [[code](https://github.com/shitongkai/PGMM)].
   
 - **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. [Spatial Temporal Aggregation for Efficient Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/10488467). **<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>**.
 
