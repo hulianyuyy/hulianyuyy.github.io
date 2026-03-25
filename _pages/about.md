@@ -20,6 +20,8 @@ redirect_from:
 Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof [Wei Feng](https://scholar.google.com/citations?user=7ory1i8AAAAJ&hl=zh-CN&oi=ao). During his graduate student period, he worked closely with Prof [Shenglan Liu](https://scholar.google.com/citations?hl=zh-CN&user=MtbsE3YAAAAJ). His research interest includes Multimodal Learning, Embodied Intelligence and Video Understanding. 
 
 # 🔥 News
+- We release [**TennisExpert**](https://arxiv.org/abs/2603.13397), which aims to provide high-quality commentaries in real time for tennis matches. It first provides a large-scale, fine-grained and diverse tennis dataset, termed TennisVL to aim MLLMs to understand tennis. A expert model termed as TennisExpert is them trained with superior performance than Gemini-3.0-pro and GPT-5.2.
+
 - We release [**LightVLM**](https://arxiv.org/pdf/2509.00419), an highly efficient method for large vision language models with a two-stage design. It improves model efficiency by first conducting visual token merging in the encoding stage and then adopt KV Cache compression in the decoding stage. It could achieve about **2×** throughput across diffferent benchmarks and **3.21×** throughput boost when outputting longer sequences.
 
 ## 🖊️ Selected Publications ($\dagger$ denotes Corresponding Author)
