@@ -36,7 +36,7 @@ Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof
 - **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419). 2025.09. 
 
 ## Accepted Publications
-- **Lianyu Hu**, Liqing Gao, Fanhua Shang, Liang Wan, Wei Feng. [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **<i>ICLR2026</i>**. [[code](https://github.com/hulianyuyy/iLLaVA)]. (To be modified)
+- **Lianyu Hu**, Liqing Gao, Fanhua Shang, Liang Wan, Wei Feng. [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **<i>ICLR2026</i>**. [[code](https://github.com/hulianyuyy/iLLaVA)].
   
 - Tongkai Shi, **Lianyu Hu<sup>$\dagger$</sup>**, Fanhua Shang, Liqing Gao, Wei Feng. [GReg: Geometry-Aware Region Refinement for Sign Language Video Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Shi_GReg_Geometry-Aware_Region_Refinement_for_Sign_Language_Video_Generation_ICCV_2025_paper.pdf). **<i>ICCV 2025</i>**.
 
