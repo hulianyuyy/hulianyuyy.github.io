@@ -46,7 +46,7 @@ Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof
   
 - **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. [Spatial Temporal Aggregation for Efficient Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/10488467). **<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>**.
 
-- [Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition](https://arxiv.org/pdf/2403.12519.pdf). **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. **<i>COLING 2024</i>**. [[code](https://github.com/hulianyuyy/DSTA-SLR)]. 
+- **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. [Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition](https://arxiv.org/pdf/2403.12519.pdf). **<i>COLING 2024</i>**. [[code](https://github.com/hulianyuyy/DSTA-SLR)]. 
 
 - **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng. [COMMA: Co-Articulated Multi-Modal Learning](https://arxiv.org/pdf/2401.00268.pdf). **<i>AAAI 2024</i>**. [[code](https://github.com/hulianyuyy/COMMA)].
 
