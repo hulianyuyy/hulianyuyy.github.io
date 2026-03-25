@@ -29,9 +29,9 @@ Lianyu Hu is a PhD graduating from Tianjin University, China, supervised by Prof
 - [Improving Continuous Sign Language Recognition with Adapted Image Models](https://arxiv.org/pdf/2404.08226.pdf), **Lianyu Hu**, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng. 2024.04. [[code](https://github.com/hulianyuyy/AdaptSign)].
 ## 📖 PrePrint
 
-- [TennisExpert: Towards Expert-Level Analytical Sports Video Understanding](https://arxiv.org/abs/2603.13397), Zhaoyu Liu, Xi Weng, **Lianyu Hu$\dagger$**, Zhe Hou, Kan Jiang, Jin Song Dong, Yang Liu. [[code](https://github.com/LZYAndy/TennisExpert)].
+- [TennisExpert: Towards Expert-Level Analytical Sports Video Understanding](https://arxiv.org/abs/2603.13397), Zhaoyu Liu, Xi Weng, **Lianyu Hu<sup>$\dagger$</sup>**, Zhe Hou, Kan Jiang, Jin Song Dong, Yang Liu. [[code](https://github.com/LZYAndy/TennisExpert)].
   
-- [HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System](https://arxiv.org/abs/2603.14807), Kailin Lyu, Kangyi Wu, Pengna Li, Xiuyu Hu, Qingyi Si, Cui Miao, Ning Yang, Zihang Wang, Long Xiao, **Lianyu Hu**$\dagger$, Jingyuan Sun$\dagger$, Ce Hao. [[code](https://github.com/lvkailin0118/HiMemVLN)].
+- [HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System](https://arxiv.org/abs/2603.14807), Kailin Lyu, Kangyi Wu, Pengna Li, Xiuyu Hu, Qingyi Si, Cui Miao, Ning Yang, Zihang Wang, Long Xiao, **Lianyu Hu<sup>$\dagger$</sup>**, Jingyuan Sun$\dagger$, Ce Hao. [[code](https://github.com/lvkailin0118/HiMemVLN)].
   
 - [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419), **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. 2025.09. 
 
