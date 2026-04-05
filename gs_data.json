@@ -1,0 +1,35 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "UNn2NIwAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "lianyu hu",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=UNn2NIwAAAAJ&citpid=9",
+  "affiliation": "Tianjin University",
+  "organization": 7203249478980670143,
+  "interests": [
+    "Video Understanding"
+  ],
+  "email_domain": "@tju.edu.cn",
+  "citedby": 785,
+  "citedby5y": 780,
+  "hindex": 12,
+  "hindex5y": 12,
+  "i10index": 13,
+  "i10index5y": 13,
+  "cites_per_year": {
+    "2020": 4,
+    "2021": 6,
+    "2022": 16,
+    "2023": 66,
+    "2024": 210,
+    "2025": 389,
+    "2026": 93
+  },
+  "publications": {},
+  "updated": "2026-04-05 08:35:40.081800"
+}
