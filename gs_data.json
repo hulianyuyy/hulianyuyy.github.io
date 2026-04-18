@@ -1,0 +1,35 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "UNn2NIwAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Lianyu Hu",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=UNn2NIwAAAAJ&citpid=9",
+  "affiliation": "Research Fellow@Nanyang Technological University",
+  "organization": 3012140508424117850,
+  "interests": [
+    "Multimodal Learning"
+  ],
+  "email_domain": "@ntu.edu.sg",
+  "citedby": 791,
+  "citedby5y": 786,
+  "hindex": 12,
+  "hindex5y": 12,
+  "i10index": 13,
+  "i10index5y": 13,
+  "cites_per_year": {
+    "2020": 4,
+    "2021": 6,
+    "2022": 16,
+    "2023": 66,
+    "2024": 210,
+    "2025": 390,
+    "2026": 98
+  },
+  "publications": {},
+  "updated": "2026-04-18 08:40:15.498796"
+}
