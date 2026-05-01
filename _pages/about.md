@@ -29,6 +29,7 @@ Lianyu Hu is a Research Fellow at Nanyang Technological University, working with
 - **Lianyu Hu**, Wei Feng, Liqing Gao, Zekang Liu, Liang Wan. [CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation](https://arxiv.org/pdf/2404.11111.pdf), 2024.04. [[code](https://github.com/hulianyuyy/CorrNet_Plus)].
   
 - **Lianyu Hu**, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng.  [Improving Continuous Sign Language Recognition with Adapted Image Models](https://arxiv.org/pdf/2404.08226.pdf), 2024.04. [[code](https://github.com/hulianyuyy/AdaptSign)].
+  
 ## 📖 PrePrint
 - Xiaoyu Ma, **Lianyu Hu**, Wenbing Tang, Zixuan Hu, Zeqin Liao, Zhizhen Wu, Yang Liu. [BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning](https://arxiv.org/abs/2604.16331). 2026.04.
 - Zhaoyu Liu, Xi Weng, **Lianyu Hu<sup>$\dagger$</sup>**, Zhe Hou, Kan Jiang, Jin Song Dong, Yang Liu.  [TennisExpert: Towards Expert-Level Analytical Sports Video Understanding](https://arxiv.org/abs/2603.13397). 2026.03. [[code](https://github.com/LZYAndy/TennisExpert)].
@@ -37,7 +38,7 @@ Lianyu Hu is a Research Fellow at Nanyang Technological University, working with
   
 - **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419). 2025.09. 
 
-## Accepted Publications
+## 📖 Accepted Publications
 - **Lianyu Hu**, Xiaoyu Ma, Zeqin Liao, Yang Liu. TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding. **<i>ICML2026</i>**.
   
 - **Lianyu Hu**, Liqing Gao, Fanhua Shang, Liang Wan, Wei Feng. [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **<i>ICLR2026</i>**. [[code](https://github.com/hulianyuyy/iLLaVA)].
