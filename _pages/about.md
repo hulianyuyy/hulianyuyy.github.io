@@ -31,7 +31,9 @@ Lianyu Hu is a Research Fellow at the College of Computing and Data Science of N
 - **Lianyu Hu**, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng.  [Improving Continuous Sign Language Recognition with Adapted Image Models](https://arxiv.org/pdf/2404.08226.pdf), 2024.04. [[code](https://github.com/hulianyuyy/AdaptSign)].
   
 ## 📖 PrePrint
-- Xiaoyu Ma, **Lianyu Hu**, Wenbing Tang, Zixuan Hu, Zeqin Liao, Zhizhen Wu, Yang Liu. [BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning](https://arxiv.org/abs/2604.16331). 2026.04.
+- Kailin Lyu, Zhiqiang Yuan, Jianwei He, Qiwei Yan, Xuanbo Su, Nanxing Hu, Yang Liu, Ce Hao, Shengqian Qin, **Lianyu Hu$\dagger$</sup>**, Jinchao Zhang$\dagger$</sup>, Jie Zhou. [PhotoCraft: Agentic Reasoning with Hierarchical Self-Evolving Memory for Deep Image Search](https://arxiv.org/abs/2606.03099). 2026.06.
+- Zeqin Liao, Peifan Ren, Zixu Gao, Hongyu Gong, **Lianyu Hu$\dagger$</sup>**, Wenbing Tang, Yuhong Nan, Zibin Zheng, Yang Liu [VLAMotor: Test-Guided Enhancement of Vision-Language-Action Models via Agent-BasedData Synthesis](https://arxiv.org/abs/2606.00053). 2026.06.
+- Xiaoyu Ma, **Lianyu Hu$\dagger$</sup>**, Wenbing Tang$\dagger$</sup>, Zixuan Hu, Zeqin Liao, Zhizhen Wu, Yang Liu. [BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning](https://arxiv.org/abs/2604.16331). 2026.04.
 - Zhaoyu Liu, Xi Weng, **Lianyu Hu<sup>$\dagger$</sup>**, Zhe Hou, Kan Jiang, Jin Song Dong, Yang Liu.  [TennisExpert: Towards Expert-Level Analytical Sports Video Understanding](https://arxiv.org/abs/2603.13397). 2026.03. [[code](https://github.com/LZYAndy/TennisExpert)].
   
 - Kailin Lyu, Kangyi Wu, Pengna Li, Xiuyu Hu, Qingyi Si, Cui Miao, Ning Yang, Zihang Wang, Long Xiao, **Lianyu Hu<sup>$\dagger$</sup>**, Jingyuan Sun<sup>$\dagger$</sup>, Ce Hao. [HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System](https://arxiv.org/abs/2603.14807). 2026.03. [[code](https://github.com/lvkailin0118/HiMemVLN)].
