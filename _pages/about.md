@@ -41,6 +41,8 @@ Lianyu Hu is a Research Fellow at the College of Computing and Data Science of N
 - **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419). 2025.09. 
 
 ## 📖 Accepted Publications
+- **Lianyu Hu**, Shengqian Qin, Zeqin Liao, Qing Guo, Liang Wan, Wei Feng, Yang Liu. CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts. **<i>ECCV2026</i>**.
+  
 - **Lianyu Hu**, Xiaoyu Ma, Zeqin Liao, Yang Liu. [TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](https://arxiv.org/pdf/2606.08464v1). **<i>ICML2026</i>**.
   
 - **Lianyu Hu**, Liqing Gao, Fanhua Shang, Liang Wan, Wei Feng. [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **<i>ICLR2026</i>**. [[code](https://github.com/hulianyuyy/iLLaVA)].
