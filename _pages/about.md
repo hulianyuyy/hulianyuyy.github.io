@@ -34,7 +34,7 @@ Lianyu Hu is a Research Fellow at the College of Computing and Data Science of N
 - Wenyuan Wang, **Lianyu Hu<sup>$\dagger$</sup>**, Hao Wang, Yang Liu. [PhysMRV: Physical Memory Retrieval and Verification for Physics Plausibility Reasoning](https://arxiv.org/pdf/2607.10190). 2026.07.
 - Kailin Lyu ,Kangyi Wu, Pengna Li, Wenxuan Song, ..., Ce Hao<sup>$\dagger$</sup>, **Lianyu Hu<sup>$\dagger$</sup>**, Dongrui Liu, Chuang Zhu, Yonggang Qi, Xingjun Ma, Hao Chen, Qing Guo, Weinan Zhang, Qi Li, Shanghang Zhang, Zhigang Zeng, Chunhua Shen, Yu-Gang Jiang, Tieniu Tan, Yang Liu. [From Instruction Following to Cognitive Navigation: A Survey on the Evolution of Vision-and-Language Navigation](https://www.preprints.org/manuscript/202606.2231). 2026.06.
 - Kailin Lyu, Zhiqiang Yuan, Jianwei He, Qiwei Yan, Xuanbo Su, Nanxing Hu, Yang Liu, Ce Hao, Shengqian Qin, **Lianyu Hu<sup>$\dagger$</sup>**, Jinchao Zhang<sup>$\dagger$</sup>, Jie Zhou. [PhotoCraft: Agentic Reasoning with Hierarchical Self-Evolving Memory for Deep Image Search](https://arxiv.org/abs/2606.03099). 2026.06.
-- Zeqin Liao, Peifan Ren, Zixu Gao, Hongyu Gong, **Lianyu Hu<sup>$\dagger$</sup>**, Wenbing Tang, Yuhong Nan, Zibin Zheng, Yang Liu [VLAMotor: Test-Guided Enhancement of Vision-Language-Action Models via Agent-BasedData Synthesis](https://arxiv.org/abs/2606.00053). 2026.06.
+- Zeqin Liao, Peifan Ren, Zixu Gao, Hongyu Gong, **Lianyu Hu<sup>$\dagger$</sup>**, Wenbing Tang, Yuhong Nan, Zibin Zheng, Yang Liu. [VLAMotor: Test-Guided Enhancement of Vision-Language-Action Models via Agent-BasedData Synthesis](https://arxiv.org/abs/2606.00053). 2026.06.
 - Xiaoyu Ma, **Lianyu Hu<sup>$\dagger$</sup>**, Wenbing Tang<sup>$\dagger$</sup>, Zixuan Hu, Zeqin Liao, Zhizhen Wu, Yang Liu. [BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning](https://arxiv.org/abs/2604.16331). 2026.04.
 - Zhaoyu Liu, Xi Weng, **Lianyu Hu<sup>$\dagger$</sup>**, Zhe Hou, Kan Jiang, Jin Song Dong, Yang Liu.  [TennisExpert: Towards Expert-Level Analytical Sports Video Understanding](https://arxiv.org/abs/2603.13397). 2026.03. [[code](https://github.com/LZYAndy/TennisExpert)].
   
@@ -44,12 +44,12 @@ Lianyu Hu is a Research Fellow at the College of Computing and Data Science of N
 
 ## 📖 Accepted Publications
 - **Lianyu Hu**, Hongwei Zeng, Xiaoyu Ma, Minghui Xue, Zonghao Ying, Zhaolu Kang, Qing Guo, Jie Zhang, Yang Liu, Yang Liu. MemoryVLN: Memory-Augmented Vision-Language Navigation. **<i>TMLR 2026</i>**.
-- Peidong Liu, **Lianyu Hu<sup>$\dagger$</sup>**, Wei Feng. FiMA: Fine-grained Multimodal Alignment for Gloss-Free Sign Language Translation. **<i>EMNLP2026</i>**.
-- **Lianyu Hu**, Shengqian Qin, Zeqin Liao, Qing Guo, Liang Wan, Wei Feng, Yang Liu. [CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts](https://arxiv.org/pdf/2606.31986v1). **<i>ECCV2026</i>**. [[code](https://github.com/hulianyuyy/CoLT)].
+- Peidong Liu, **Lianyu Hu<sup>$\dagger$</sup>**, Wei Feng. FiMA: Fine-grained Multimodal Alignment for Gloss-Free Sign Language Translation. **<i>EMNLP 2026</i>**.
+- **Lianyu Hu**, Shengqian Qin, Zeqin Liao, Qing Guo, Liang Wan, Wei Feng, Yang Liu. [CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts](https://arxiv.org/pdf/2606.31986v1). **<i>ECCV 2026</i>**. [[code](https://github.com/hulianyuyy/CoLT)].
   
-- **Lianyu Hu**, Xiaoyu Ma, Zeqin Liao, Yang Liu. [TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](https://arxiv.org/pdf/2606.08464v1). **<i>ICML2026</i>**.
+- **Lianyu Hu**, Xiaoyu Ma, Zeqin Liao, Yang Liu. [TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](https://arxiv.org/pdf/2606.08464v1). **<i>ICML 2026</i>**.
   
-- **Lianyu Hu**, Liqing Gao, Fanhua Shang, Liang Wan, Wei Feng. [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **<i>ICLR2026</i>**. [[code](https://github.com/hulianyuyy/iLLaVA)].
+- **Lianyu Hu**, Liqing Gao, Fanhua Shang, Liang Wan, Wei Feng. [iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/pdf/2412.06263), **<i>ICLR 2026</i>**. [[code](https://github.com/hulianyuyy/iLLaVA)].
   
 - Tongkai Shi, **Lianyu Hu<sup>$\dagger$</sup>**, Fanhua Shang, Liqing Gao, Wei Feng. [GReg: Geometry-Aware Region Refinement for Sign Language Video Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Shi_GReg_Geometry-Aware_Region_Refinement_for_Sign_Language_Video_Generation_ICCV_2025_paper.pdf). **<i>ICCV 2025</i>**.
 
