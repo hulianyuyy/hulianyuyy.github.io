@@ -43,7 +43,7 @@ Lianyu Hu is a Research Fellow at the College of Computing and Data Science of N
 - **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419). 2025.09. 
 
 ## 📖 Accepted Publications
-- **Lianyu Hu**, Hongwei Zeng, Xiaoyu Ma, Minghui Xue, Zonghao Ying, Zhaolu Kang, Qing Guo, Jie Zhang, Yang Liu, Yang Liu. MemoryVLN: Memory-Augmented Vision-Language Navigation. **<i>TMLR 2026</i>**.
+- **Lianyu Hu**, Hongwei Zeng, Xiaoyu Ma, Minghui Xue, Zonghao Ying, Zhaolu Kang, Qing Guo, Jie Zhang, Yang Liu. MemoryVLN: Memory-Augmented Vision-Language Navigation. **<i>TMLR 2026</i>**.
 - Peidong Liu, **Lianyu Hu<sup>$\dagger$</sup>**, Wei Feng. FiMA: Fine-grained Multimodal Alignment for Gloss-Free Sign Language Translation. **<i>EMNLP 2026</i>**.
 - **Lianyu Hu**, Shengqian Qin, Zeqin Liao, Qing Guo, Liang Wan, Wei Feng, Yang Liu. [CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts](https://arxiv.org/pdf/2606.31986v1). **<i>ECCV 2026</i>**. [[code](https://github.com/hulianyuyy/CoLT)].
   
