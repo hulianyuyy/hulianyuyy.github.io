@@ -43,7 +43,7 @@ Lianyu Hu is a Research Fellow at the College of Computing and Data Science of N
 - **Lianyu Hu**, Fanhua Shang, Liang Wan, Wei Feng. [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419). 2025.09. 
 
 ## 📖 Accepted Publications
-- **Lianyu Hu**, Hongwei Zeng, Xiaoyu Ma, Minghui Xue, Zonghao Ying, Zhaolu Kang, Qing Guo, Jie Zhang, Yang Liu. MemoryVLN: Memory-Augmented Vision-Language Navigation. **<i>TMLR 2026</i>**.
+- **Lianyu Hu**, Hongwei Zeng, Xiaoyu Ma, Minghui Xue, Zonghao Ying, Zhaolu Kang, Qing Guo, Jie Zhang, Yang Liu. MemoryVLN: Memory-Augmented Vision-Language Navigation. **<i>Transactions on Machine Learning Research (TMLR), 2026</i>**.
 - Peidong Liu, **Lianyu Hu<sup>$\dagger$</sup>**, Wei Feng. FiMA: Fine-grained Multimodal Alignment for Gloss-Free Sign Language Translation. **<i>EMNLP 2026</i>**.
 - **Lianyu Hu**, Shengqian Qin, Zeqin Liao, Qing Guo, Liang Wan, Wei Feng, Yang Liu. [CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts](https://arxiv.org/pdf/2606.31986v1). **<i>ECCV 2026</i>**. [[code](https://github.com/hulianyuyy/CoLT)].
   
@@ -57,17 +57,17 @@ Lianyu Hu is a Research Fellow at the College of Computing and Data Science of N
   
 - Tongkai Shi, **Lianyu Hu**, Fanhua Shang, Jichao Feng, Peidong Liu, Wei Feng. [Pose-Guided Fine-Grained Sign Language Video Generation](https://arxiv.org/abs/2409.16709). **<i>ECCV 2024</i>**. [[code](https://github.com/shitongkai/PGMM)].
   
-- **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. [Spatial Temporal Aggregation for Efficient Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/10488467). **<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>**.
+- **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. [Spatial Temporal Aggregation for Efficient Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/10488467). **<i>IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2024</i>**.
 
 - **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. [Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition](https://arxiv.org/pdf/2403.12519.pdf). **<i>COLING 2024</i>**. [[code](https://github.com/hulianyuyy/DSTA-SLR)]. 
 
 - **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng. [COMMA: Co-Articulated Multi-Modal Learning](https://arxiv.org/pdf/2401.00268.pdf). **<i>AAAI 2024</i>**. [[code](https://github.com/hulianyuyy/COMMA)].
 
-- **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. [Scalable Frame Resolution for Efficient Continuous Sign Language Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323006015). **<i>Pattern Recognition</i>**.
+- **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. [Scalable Frame Resolution for Efficient Continuous Sign Language Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323006015). **<i>Pattern Recognition (PR), 2024</i>**.
 
 - **Lianyu Hu**, Liqing Gao, Zekang Liu, Chi-Man Pun, Wei Feng. [AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition](https://arxiv.org/pdf/2308.08327.pdf). **<i>ACMMM 2023 (Oral)</i>**. [[code](https://github.com/hulianyuyy/AdaBrowse)].
 
-- **Lianyu Hu**, Shenglan Liu, Wei Feng. [Skeleton-Based Action Recognition with Local Dynamic Spatial-Temporal Aggregation](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011855). **<i>Expert Systems with Applications</i>**. [[code](https://github.com/hulianyuyy/STGAT)]. (Previous name: Spatial Temporal Graph Attention Network for Skeleton-Based Action Recognition)
+- **Lianyu Hu**, Shenglan Liu, Wei Feng. [Skeleton-Based Action Recognition with Local Dynamic Spatial-Temporal Aggregation](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011855). **<i>Expert Systems with Applications (ESWA), 2023</i>**. [[code](https://github.com/hulianyuyy/STGAT)]. (Previous name: Spatial Temporal Graph Attention Network for Skeleton-Based Action Recognition)
 
 - **Lianyu Hu**, Liqing Gao, Zekang Liu, Wei Feng. [Continuous Sign Language Recognition with Correlation Network](https://arxiv.org/pdf/2303.03202.pdf). **<i>CVPR 2023</i>**. [[code](https://github.com/hulianyuyy/CorrNet)].
 
