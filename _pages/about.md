@@ -45,7 +45,7 @@ Lianyu Hu is a Research Fellow at the College of Computing and Data Science of N
 
 ## 📖 Accepted Publications
 - **Lianyu Hu**, Hongwei Zeng, Xiaoyu Ma, Minghui Xue, Zonghao Ying, Zhaolu Kang, Qing Guo, Jie Zhang, Yang Liu. [MemoryVLN: Memory-Augmented Vision-Language Navigation](https://openreview.net/forum?id=vHb61DlKTh). **<i>Transactions on Machine Learning Research (TMLR), 2026</i>**.
-- Peidong Liu, **Lianyu Hu<sup>$\dagger$</sup>**, Wei Feng. FiMA: Fine-grained Multimodal Alignment for Gloss-Free Sign Language Translation. **<i>EMNLP 2026</i>**.
+- Peidong Liu, **Lianyu Hu<sup>$\dagger$</sup>**, Wei Feng. [FiMA: Fine-grained Multimodal Alignment for Gloss-Free Sign Language Translation](https://aclanthology.org/2026.emnlp-main.2253/). **<i>EMNLP 2026</i>**.
 - **Lianyu Hu**, Shengqian Qin, Zeqin Liao, Qing Guo, Liang Wan, Wei Feng, Yang Liu. [CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts](https://arxiv.org/pdf/2606.31986v1). **<i>ECCV 2026</i>**. [[code](https://github.com/hulianyuyy/CoLT)].
   
 - **Lianyu Hu**, Xiaoyu Ma, Zeqin Liao, Yang Liu. [TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](https://arxiv.org/pdf/2606.08464v1). **<i>ICML 2026</i>**.
